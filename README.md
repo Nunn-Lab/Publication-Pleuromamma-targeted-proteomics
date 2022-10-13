@@ -3,7 +3,7 @@ Supporting documentation for Timmins-Schiffman et al. publication.<br/>
 The documents included in this repository will allow you to recreate the figures in the paper.
 
 Figure 1. Nonmetric multidimensional scaling plot of the incubation DDA dataset.<br/>
-input file: copepod adjnsaf filtered file.csv<br/>
+input file: ABACUS_copepods_metazoan_output.csv<br/>
 R script: Figure 1 NMDS.R
 
 Figure 2. Log fold change of differentially abundant DDA proteins.<br/>
