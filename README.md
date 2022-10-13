@@ -18,6 +18,6 @@ Figure 4. Full cluster plots used to make this figure.<br/>
 input files: file for PCoA.csv<br/>
 R script: Figure 4 cluster.R
 
-Other files include:<br/>
+Other files included:<br/>
 biostats.R and documentation (source package used for some of the plots)<br/>
 comet.params file is the parameters file used in the Comet search of the DDA data
