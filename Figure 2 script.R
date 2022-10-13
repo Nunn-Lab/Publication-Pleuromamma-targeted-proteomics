@@ -1,4 +1,4 @@
-source('~/Documents/Multivariate Stats/biostats.R')
+source('biostats.R')
 library(dplyr)
 library(vegan)
 library(ggplot2)
