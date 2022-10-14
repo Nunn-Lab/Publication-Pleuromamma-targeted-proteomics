@@ -1,4 +1,4 @@
-[NSF-1829318-blue.pdf](https://github.com/Nunn-Lab/Publication-Pleuromamma-targeted-proteomics/files/9788802/NSF-1829318-blue.pdf)
+[![OCE-1829318](https://img.shields.io/badge/NSF-1829318-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1829318)
 
 # Publication-Pleuromamma-targeted-proteomics
 Supporting documentation for Timmins-Schiffman et al. publication.<br/>
